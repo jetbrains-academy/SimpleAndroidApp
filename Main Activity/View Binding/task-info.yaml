@@ -1,0 +1,26 @@
+type: edu
+files:
+- name: build.gradle
+  visible: true
+- name: src/main/java/com/example/simpleandroidapp/MainActivity.kt
+  visible: true
+  placeholders:
+  - offset: 379
+    length: 10
+    placeholder_text: /*what type should it be?*/
+    dependency:
+      lesson: Main Activity
+      task: Adding a Toolbar
+      file: src/main/java/com/example/simpleandroidapp/MainActivity.kt
+      placeholder: 1
+      is_visible: false
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/layout/activity_main.xml
+  visible: true
+- name: src/main/res/values/styles.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/res/values/colors.xml
+  visible: true
