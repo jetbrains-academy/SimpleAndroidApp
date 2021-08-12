@@ -14,5 +14,3 @@ files:
   visible: true
 - name: src/main/res/values/colors.xml
   visible: true
-- name: img.png
-  visible: false

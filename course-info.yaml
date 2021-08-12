@@ -1,0 +1,14 @@
+title: Simple Android Application
+language: English
+summary: |-
+  This is an introductory Android course.
+  - The course will be most beneficial for beginner-level Android learners.
+  - The course covers core Android features.
+  - It contains hands-on examples of Android code implementation and exercises to practice new skills.
+  - The course is based on the author's personal experience in Android development.
+programming_language: Kotlin
+environment: Android
+content:
+- Configuration
+- Building UI elements
+- Building app elements
