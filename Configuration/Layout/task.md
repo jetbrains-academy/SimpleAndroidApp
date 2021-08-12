@@ -1,0 +1,3 @@
+This XML file defines the layout for the activity's user interface (UI). It contains a TextView element with the text "I fight for the users!"
+
+The file defines an overall layout of the activity - [LinearLayout](https://developer.android.com/guide/topics/ui/layout/linear). It aligns all children in a single direction, vertically or horizontally. There is also a description of the only element the application has at the moment - the [TextView](https://developer.android.com/reference/android/widget/TextView).

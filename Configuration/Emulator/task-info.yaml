@@ -1,0 +1,18 @@
+type: theory
+files:
+- name: build.gradle
+  visible: true
+- name: src/main/java/course/simpleapp/MainActivity.kt
+  visible: true
+- name: src/main/AndroidManifest.xml
+  visible: true
+- name: src/main/res/layout/activity_main.xml
+  visible: true
+- name: src/main/res/values/styles.xml
+  visible: true
+- name: src/main/res/values/strings.xml
+  visible: true
+- name: src/main/res/values/colors.xml
+  visible: true
+- name: img.png
+  visible: false
