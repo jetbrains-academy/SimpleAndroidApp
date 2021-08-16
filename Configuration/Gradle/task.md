@@ -1,10 +1,18 @@
 Gradle
 ------
 
-As well as other android applications, your application will use [gradle](https://developer.android.com/studio/releases/gradle-plugin) as a build tool. It means all of the modules and external libraries or packages are compiled together according to the rules provided via `gradle.build` file.
+The Android Studio build system is based on [Gradle](https://developer.android.com/studio/releases/gradle-plugin). Therefore,
+just like other Android applications, your application will use Gradle
+as a build tool. What this means is that all of the modules and external libraries or packages are compiled
+together according to the rules provided in the `build.gradle` file.
 
-In this course it is updated for you during the tasks, so you don't need to implement changes yourself, but all of them are provided for you to use in your further development. To use them properly you should check out [Gradle introduction](https://guides.gradle.org/building-android-apps/#review_the_top_level_gradle_build_file).
 
-You can always come back to this task if you need some comments on the `build.gradle` structure.
+The project has a `build.gradle`, and each module has its own one. Use each module's `build.gradle`
+file to control how the Gradle plugin builds your app. For more information about these files, see [Configure your build](https://developer.android.com/studio/build).
+
+
+
+In this course `build.gradle` is updated for you automatically with every task, don't need to implement
+changes yourself, but all of them are provided for you to use in your further development.
 
 
