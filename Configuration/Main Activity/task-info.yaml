@@ -1,4 +1,4 @@
-type: theory
+type: edu
 files:
 - name: build.gradle
   visible: false
@@ -14,3 +14,5 @@ files:
   visible: false
 - name: src/main/java/course.simpleapp/MainActivity.kt
   visible: true
+- name: src/test/java/course/simpleapp/ExampleUnitTest.kt
+  visible: false

@@ -1,4 +1,4 @@
-type: theory
+type: edu
 files:
 - name: build.gradle
   visible: true
@@ -11,4 +11,6 @@ files:
 - name: src/main/res/values/strings.xml
   visible: false
 - name: src/main/res/values/colors.xml
+  visible: false
+- name: src/test/java/course/simpleapp/ExampleUnitTest.kt
   visible: false
