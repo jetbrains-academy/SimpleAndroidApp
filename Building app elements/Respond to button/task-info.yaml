@@ -4,6 +4,10 @@ files:
   visible: true
 - name: src/main/java/course/simpleapp/MainActivity.kt
   visible: true
+  placeholders:
+  - offset: 492
+    length: 34
+    placeholder_text: // Do something in response to button
 - name: src/main/AndroidManifest.xml
   visible: true
 - name: src/main/res/layout/activity_main.xml
