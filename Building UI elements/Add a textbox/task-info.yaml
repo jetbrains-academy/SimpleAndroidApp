@@ -9,16 +9,20 @@ files:
 - name: src/main/res/layout/activity_main.xml
   visible: true
   placeholders:
-  - offset: 322
-    length: 266
+  - offset: 410
+    length: 413
     placeholder_text: |-
       <TextView
             android:id="@+id/hello"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
             android:gravity="center"
             android:text="Hello, World!"
-            tools:ignore="HardcodedText"/>
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="HardcodedText" />
 - name: src/main/res/values/styles.xml
   visible: true
 - name: src/main/res/values/strings.xml
@@ -32,6 +36,12 @@ files:
 - name: src/androidTest/java/course/simpleapp/ExampleInstrumentedTest.kt
   visible: false
 - name: img.png
-  visible: true
+  visible: false
 - name: blueprint.png
-  visible: true
+  visible: false
+- name: img_3.png
+  visible: false
+- name: img_1.png
+  visible: false
+- name: img_2.png
+  visible: false
