@@ -6,7 +6,8 @@ how to make the app respond when the button is tapped.
 Most of your UI is defined in XML files.
 However, this lesson shows you how to create a layout using Android Studio's Layout Editor, rather 
 than teaching you to write XML. The Layout Editor writes the XML for you as you drag 
-and drop views to build your layout.
+and drop views to build your layout. To see the `activity_main.xml` file, select the tab `Code`
+in your Editor.
 
 Add a text box
 -------------
