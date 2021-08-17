@@ -9,9 +9,10 @@ files:
 - name: src/main/res/layout/activity_main.xml
   visible: true
   placeholders:
-  - offset: 623
+  - offset: 830
     length: 185
-    placeholder_text: <---Add a button here. Its id should be "button" and it's text should be "Check"--->
+    placeholder_text: <!--Add a button here. Its id should be "button" and it's text
+      should be "Check"-->
 - name: src/main/res/values/styles.xml
   visible: true
 - name: src/main/res/values/strings.xml
@@ -24,3 +25,5 @@ files:
   visible: true
 - name: src/test/java/course/simpleapp/ExampleUnitTest.kt
   visible: true
+- name: img.png
+  visible: false
