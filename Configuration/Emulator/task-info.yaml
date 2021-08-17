@@ -16,3 +16,5 @@ files:
   visible: true
 - name: src/test/java/course/simpleapp/ExampleUnitTest.kt
   visible: false
+- name: edit_run_debug.png
+  visible: false
