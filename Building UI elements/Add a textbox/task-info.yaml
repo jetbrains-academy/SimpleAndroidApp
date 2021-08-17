@@ -9,8 +9,8 @@ files:
 - name: src/main/res/layout/activity_main.xml
   visible: true
   placeholders:
-  - offset: 410
-    length: 413
+  - offset: 414
+    length: 412
     placeholder_text: |-
       <TextView
             android:id="@+id/hello"
