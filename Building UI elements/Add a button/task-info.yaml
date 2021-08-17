@@ -27,3 +27,9 @@ files:
   visible: true
 - name: img.png
   visible: false
+- name: img_1.png
+  visible: false
+- name: img_3.png
+  visible: false
+- name: img_2.png
+  visible: true
