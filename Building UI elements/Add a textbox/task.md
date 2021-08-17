@@ -3,9 +3,10 @@ In this lesson, you learn how to create a layout
 that includes a text box and a button. This sets up the next lesson, where you learn 
 how to make the app respond when the button is tapped.
 
-Android provides an XML vocabulary for ViewGroup and View classes, so most of your UI is defined in XML files.
-However, rather than teach you to write XML, this lesson shows you how to create a layout using Android 
-Studio's Layout Editor. The Layout Editor writes the XML for you as you drag and drop views to build your layout.
+Most of your UI is defined in XML files.
+However, this lesson shows you how to create a layout using Android Studio's Layout Editor, rather 
+than teaching you to write XML. The Layout Editor writes the XML for you as you drag 
+and drop views to build your layout.
 
 Add a text box
 -------------
@@ -17,6 +18,13 @@ In the **Select Design Surface** drop-down menu, select **Blueprint**.
 <center>
     <img src="blueprint.png" alt="img" width=200 align="center" />
 </center>
+
+- Click <img src="img_1.png" alt="" width=15> (View Options) in the Layout Editor toolbar and make sure that **Show All Constraints** is checked.
+  Make sure Autoconnect is off. A tooltip in the toolbar displays  (Enable Autoconnection to Parent) when Autoconnect is off. 
+  
+- Click <img src="img_2.png" alt="" width=20> (Default Margins) in the toolbar and select 16. If needed, you can adjust the margins for each view later.
+  
+- Click <img src="img_3.png" alt="" width=15> (Device for Preview) in the toolbar and select 5.5, 1440 × 2560, 560 dpi (Pixel XL)
 
 Follow [these steps](https://developer.android.com/training/basics/firstapp/building-ui#textbox) to add a text box:
 
