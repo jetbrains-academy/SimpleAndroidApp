@@ -32,4 +32,4 @@ files:
 - name: img_3.png
   visible: false
 - name: img_2.png
-  visible: true
+  visible: false
