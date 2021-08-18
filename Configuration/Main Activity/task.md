@@ -1,8 +1,8 @@
 Introduction
 -------------
 
-In this course, you will learn to create a simple Android application with
-two screens. You will also be able to test your application on a phone emulator.
+In this course, you will learn to create a simple Android application.
+You will also be able to test your application on a phone emulator.
 
 
 
