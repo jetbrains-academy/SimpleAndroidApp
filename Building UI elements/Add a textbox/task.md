@@ -1,13 +1,13 @@
 
-In this lesson, you learn how to create a layout 
-that includes a text box and a button. This sets up the next lesson, where you learn 
+In this lesson, you will learn how to create a layout
+that includes a text box and a button. This sets up the next lesson where you'll learn
 how to make the app respond when the button is tapped.
 
 Most of your UI is defined in XML files.
-However, this lesson shows you how to create a layout using Android Studio's Layout Editor, rather 
-than teaching you to write XML. The Layout Editor writes the XML for you as you drag 
-and drop views to build your layout. To see the `activity_main.xml` file, select the tab `Code`
-in your Editor.
+However, this lesson shows you how to create a layout using Android Studio's Layout Editor rather
+than write XML. The Layout Editor writes the XML for you as you drag
+and drop views to build your layout. To see the `activity_main.xml` file, select the `Code`
+tab in your Editor.
 
 Add a text box
 -------------
@@ -25,7 +25,7 @@ In the **Select Design Surface** drop-down menu, select **Blueprint**.
   
 - Click <img src="img_2.png" alt="" width=20> (Default Margins) in the toolbar and select 16. If needed, you can adjust the margins for each view later.
   
-- Click <img src="img_3.png" alt="" width=15> (Device for Preview) in the toolbar and select 5.5, 1440 × 2560, 560 dpi (Pixel XL)
+- Click <img src="img_3.png" alt="" width=15> (Device for Preview) in the toolbar and select 5.5, 1440 × 2560, 560 dpi (Pixel XL).
 
 Follow [these steps](https://developer.android.com/training/basics/firstapp/building-ui#textbox) to add a text box:
 
@@ -35,7 +35,7 @@ Follow [these steps](https://developer.android.com/training/basics/firstapp/buil
  - Drag the **Plain Text** into the design editor and drop it near the top of 
    the layout. This is an **EditText** widget that accepts plain text input.
  - Click the view in the design editor. You can now see the square handles to 
-   resize the view on each corner, and the circular constraint anchors on each side. 
+   resize the view on each corner and the circular constraint anchors on each side.
    For better control, you might want to zoom in on the editor. To do so, use the **Zoom** 
    buttons in the **Layout Editor** toolbar.
  - Click and hold the anchor on the top side, drag it up until it snaps to the top 
@@ -45,7 +45,7 @@ Follow [these steps](https://developer.android.com/training/basics/firstapp/buil
  - Use the same process to create a constraint from the left side of the view to the 
    left side of the layout.
 
-The result should look as shown in the figure below.
+The result should look as shown in the figure below:
 <p></p>
 <center>
     <img src="img.png" alt="img" width=400 align="center" />
