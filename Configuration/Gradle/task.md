@@ -7,12 +7,12 @@ as a build tool. What this means is that all of the modules and external librari
 together according to the rules provided in the `build.gradle` file.
 
 
-The project has a `build.gradle`, and each module has its own one. Use each module's `build.gradle`
+The project has its `build.gradle` file, and each module has one of its own. Use each module's `build.gradle`
 file to control how the Gradle plugin builds your app. For more information about these files, see [Configure your build](https://developer.android.com/studio/build).
 
 
 
-In this course `build.gradle` is updated for you automatically with every task, don't need to implement
-changes yourself, but all of them are provided for you to use in your further development.
+In this course, `build.gradle` is updated for you automatically with every task and you don't need to implement
+changes yourself; however, all of them are provided for you to use in your further development.
 
 
