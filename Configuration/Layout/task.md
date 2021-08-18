@@ -9,7 +9,7 @@ All elements in the layout are built using a hierarchy of [View](https://develop
 and [ViewGroup](https://developer.android.com/reference/android/view/ViewGroup) objects.
 
 A View object usually draws something users can see and interact with.
-Such objects are also called "widgets" and there are many subclasses of them, for example
+Such objects are also called "widgets" and they have many subclasses, for example,
 [ImageView](https://developer.android.com/reference/android/widget/ImageView) or [TextView](https://developer.android.com/reference/android/widget/TextView).
 Our `activity_main.xml` contains a TextView element with the text "I fight for the users!"
 
