@@ -19,6 +19,14 @@ To run the app on the emulator we will follow [this brief guide](https://develop
  - Select the system image for a particular API level, and then click `Next`.
  - Change AVD properties as needed, and then click `Finish`.
 
- Now have your virtual device set up and you can run your application from any 
- task by pressing the `Run` button, or by running the `MainActivity`.
- Android Studio installs the app on the AVD and starts the emulator.
+ Now your virtual device is set up and you can run your application from any 
+ task by selecting the task you want to run in the **Edit Run/Debug Configurations**
+ drop-down menu, as shown in the figure below.
+
+<p></p>
+<center>
+    <img src="edit_run_debug.png" alt="img" width=400 align="center" />
+</center>
+ 
+Then simply press the `Run` button next to the target device drop-down menu. Android Studio installs the app on the AVD 
+ and starts the emulator.

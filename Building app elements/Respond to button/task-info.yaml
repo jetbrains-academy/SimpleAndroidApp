@@ -21,6 +21,6 @@ files:
 - name: src/test/java/course/simpleapp/ExampleUnitTest.kt
   visible: false
 - name: src/androidTest/java/course/simpleapp/AndroidEduTestRunner.kt
-  visible: false
+  visible: true
 - name: src/androidTest/java/course/simpleapp/ExampleInstrumentedTest.kt
-  visible: false
+  visible: true
