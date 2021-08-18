@@ -19,8 +19,8 @@ To run the app on the emulator, we will follow [this brief guide](https://develo
  - Select the system image for a particular API level and then click `Next`.
  - Change AVD properties as needed and then click `Finish`.
 
- Now your virtual device is set up and you can run any task of your application
- by selecting the task in the **Edit Run/Debug Configurations**
+ Now your virtual device is set up and you can run your application
+ from any task by selecting the task in the **Edit Run/Debug Configurations**
  drop-down menu as shown in the figure below.
 
 <p></p>
